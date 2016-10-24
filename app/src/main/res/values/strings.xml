@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TBook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_title_recognize">编辑推荐</string>
+    <string name="tv_more">更多</string>
+    <string name="tv_title_latest">最新上架</string>
+    <string name="tv_title_hot">热销图书</string>
+    <string name="shopping_cart">购物车</string>
+    <string name="edit">编辑</string>
+    <string name="total">合计：</string>
+    <string name="empty_hint">购物车空空如也呦!\n快去选购吧</string>
+    <string name="MyTbook">我的TBook</string>
+    <string name="myNickName">我的昵称</string>
+</resources>
